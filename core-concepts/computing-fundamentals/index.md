@@ -43,7 +43,7 @@ Computing fundamentals introduce you to the basic concepts and principles that u
 
 ## Key Concepts
 
-{% include figure.html src="computing-model.png" alt="Basic Computing Model" caption="The basic computing model showing input, processing, output, storage, and communication" %}
+{% include figure html src="computing-model.png" alt="Basic Computing Model" caption="The basic computing model showing input, processing, output, storage, and communication" %}
 
 The fundamental computing model includes:
 - **Input**: Data entry into the system
