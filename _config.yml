@@ -1,8 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: IT Gateway
+description: Comprehensive IT theory and practical resource for Grade 10-12
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# Enable search
+search_enabled: true
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Enable navigation structure
+nav_external_links:
+  - title: Google Classroom
+    url: https://classroom.google.com
+    hide_icon: false
+
+# Enable copy code buttons
+enable_copy_code_button: true
+
+# Footer content
+footer_content: "Created by MrCooks &copy; 2025"
