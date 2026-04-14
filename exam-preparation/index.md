@@ -2,80 +2,54 @@
 layout: page
 title: Exam Preparation
 permalink: /exam-preparation/
-nav_order: 6
+nav_order: 10
 has_children: true
 ---
 
 # Exam Preparation
 
-This section is designed to help you prepare specifically for IT examinations, including strategies, practice questions, and analysis of past papers.
+This section helps you prepare specifically for IT examinations — strategies, practice questions, and topic-by-topic breakdowns.
 
-## Understanding the IT Exam Structure
+## The Grade 12 IT exam structure
 
-The Grade 12 IT examination consists of two papers:
+| Paper | Type | Duration | Marks | Focus |
+|---|---|---|---|---|
+| Paper 1 | Practical | 3 hours | 150 | Solution Development (programming + SQL) |
+| Paper 2 | Theory | 3 hours | 150 | All five theory topics |
+| PAT | Project | Ongoing | 100 | Software development task |
 
-### Paper 1: Practical Examination
-- **Duration**: 3 hours
-- **Marks**: 150
-- **Focus**: Programming skills in Delphi, database manipulation, and problem-solving
-- **Format**: Typically 3-4 questions requiring you to write, modify, or debug programs
+## Paper 2 — Theory topics
 
-### Paper 2: Theory Examination
-- **Duration**: 3 hours
-- **Marks**: 150
-- **Focus**: Theoretical concepts across all IT topics
-- **Format**: Six questions covering systems technologies, communications, internet, data management, solution development, and integrated scenarios
+Paper 2 covers one question per CAPS topic:
 
-## Resources in this section
+| Question | Topic |
+|---|---|
+| 1 | Systems Technologies |
+| 2 | Communication Technologies |
+| 3 | Internet Technologies |
+| 4 | Data and Information Management |
+| 5 | Social Implications |
+| 6 | Integrated/Solution Development concepts |
 
-### Paper 1 Resources
+To revise each topic, go to the topic page directly — each page has a **Paper Connection** section and **Practice Questions**.
+
+## Cognitive levels
+
+Both papers test content at three levels:
+
+| Level | Description | % of marks |
+|---|---|---|
+| Lower order | Recall — definitions, naming, listing | ±30% |
+| Middle order | Application — explain, compare, describe how | ±40% |
+| Higher order | Analysis — evaluate, recommend with justification | ±30% |
+
+## General exam strategies
+
+- Start revision at least 6–8 weeks before the exam
+- For Paper 2: practise writing full sentences, not just bullet points
+- For Paper 1: practise typing code regularly — speed and accuracy matter
+- Work through the **Practice Questions** on each topic page
+
+## Resources
+
 - [Paper 1 Preparation Guide](./paper1-guide)
-- Detailed breakdowns of common practical question types:
-  - [Algorithm Questions](./paper1-topics/algorithm-questions)
-  - [Database Questions](./paper1-topics/database-questions)
-  - [OOP Questions](./paper1-topics/oop-questions)
-  - [Problem-Solving Strategies](./paper1-topics/problem-solving-strategies)
-
-### Paper 2 Resources
-- [Paper 2 Preparation Guide](./paper2-guide)
-- Detailed breakdowns of theory question types:
-  - [Hardware Questions](./paper2-topics/hardware-questions)
-  - [Software Questions](./paper2-topics/software-questions)
-  - [Networking Questions](./paper2-topics/networking-questions)
-  - [Internet Questions](./paper2-topics/internet-questions)
-  - [Data Management Questions](./paper2-topics/data-management-questions)
-  - [Social Implications Questions](./paper2-topics/social-implications-questions)
-
-### Past Paper Analysis
-- [Analysis of Recent Paper 1 Exams](./past-papers/paper1-analysis)
-- [Analysis of Recent Paper 2 Exams](./past-papers/paper2-analysis)
-- [Common Mistakes and How to Avoid Them](./past-papers/common-mistakes)
-
-## Exam Preparation Strategies
-
-### General Strategies
-- Start revision at least 8 weeks before the exam
-- Create a study schedule that covers all topics
-- Practice with past papers under timed conditions
-- Focus on understanding concepts rather than memorizing
-
-### Paper 1 Strategies
-- Practice typing code regularly
-- Master debugging techniques
-- Understand the marking rubric
-- Learn to manage time effectively during the exam
-
-### Paper 2 Strategies
-- Use mind maps to connect related concepts
-- Practice explaining concepts in your own words
-- Create flashcards for key definitions
-- Review past papers to identify common question patterns
-
-## Cognitive Levels
-
-Both papers test different cognitive levels:
-- **Lower Order (±30%)**: Recall of facts, basic concepts, terminology
-- **Middle Order (±40%)**: Understanding, application, interpretation
-- **Higher Order (±30%)**: Analysis, evaluation, creation, problem-solving
-
-Understanding these levels helps you prepare for the depth of questions you'll encounter in the exam.

@@ -8,27 +8,32 @@ permalink: /
 # IT Gateway
 {: .fs-9 }
 
-Your complete resource for IT theory and practical concepts
+Your complete IT resource — organised by concept, aligned to CAPS
 {: .fs-6 .fw-300 }
 
-[Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/yourusername/it-gateway){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Grade 8–9 Resources](/grade-8-9/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Exam Preparation](/exam-preparation/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[How to use this site](/how-to-use){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Welcome to IT Gateway
+## CAPS IT Topics (Grade 10–12)
 
-This resource contains comprehensive materials for Grade 10-12 Information Technology, covering both theoretical concepts and practical skills. Use the navigation menu to explore different topics or use the search function to find specific content.
+Content is organised by the six official CAPS IT topics. Each topic shows how the concept builds from Grade 10 through to Grade 12.
 
-## Getting Started
+| Topic | What it covers |
+|---|---|
+| [Systems Technologies](/systems-technologies/) | Hardware, software, OS, mobile devices, cloud computing |
+| [Communication Technologies](/communication-technologies/) | Networks, protocols, wireless, network security |
+| [Internet Technologies](/internet-technologies/) | Internet services, web applications, online storage |
+| [Data and Information Management](/data-and-information-management/) | Database design, SQL, normalisation, data integrity |
+| [Social Implications](/social-implications/) | Ethics, cybercrime, digital divide, responsible use |
+| [Solution Development](/solution-development/) | Programming, algorithms, OOP, file handling, databases in code |
 
-- [How to use this resource](./how-to-use)
-- [Exam preparation guides](./exam-preparation)
-- [Core computing concepts](./core-concepts)
-- [Practical programming skills](./practical-skills)
+---
 
-## Recent Updates
+## Grade 8 and 9
 
-- New SQL examples added (April 12, 2023)
-- VR/AR section completed (April 8, 2023)
-- Updated PAT guidelines (April 5, 2023)
+Grade 8–9 learners use [CodeHS](https://codehs.com) for the full curriculum. This site has **test and exam preparation** pages for each topic area.
+
+[Go to Grade 8–9 Resources](/grade-8-9/){: .btn .btn-primary }
